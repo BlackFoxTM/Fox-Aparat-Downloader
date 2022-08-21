@@ -1,1 +1,6 @@
 
+requests
+tqdm
+colorama
+pyfiglet
+rainbowtext
